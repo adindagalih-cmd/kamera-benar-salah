@@ -1,0 +1,6 @@
+{
+  "name": "Kamera Benar-Salah: EduGame Interaktif Kelas",
+  "description": "Aplikasi web game edukasi interaktif menggunakan kamera webcam dan deteksi gerakan tubuh MediaPipe Pose untuk menjawab soal Benar-Salah di kelas.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
